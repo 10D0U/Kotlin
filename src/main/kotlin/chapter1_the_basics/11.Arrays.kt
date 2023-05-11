@@ -32,7 +32,7 @@ fun main() {
 
     arr1.set(1, false)
     arr1[3] = "JavaScript"
-    // println(Arrays.toString(arr1))
+//     println(Arrays.toString(arr1))
     println(arr1.contentToString())
 
     var intInitializeArr = Array<Int>(5){2}
